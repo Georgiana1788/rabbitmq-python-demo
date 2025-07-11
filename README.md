@@ -32,4 +32,4 @@ Acest proiect demonstrează folosirea RabbitMQ cu Python pentru a trimite și a 
 5. Vezi rezultatul în consolă și în UI-ul RabbitMQ (http://localhost:15672).
 
 ## Autori
-Georgiana M.
+Georgiana Mangiuchi
